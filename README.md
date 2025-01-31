@@ -56,4 +56,4 @@ Car Info Lookup (Android) is a lightweight application that retrieves detailed v
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/car-info-android.git
+   git clone https://github.com/mohamadabuahmad/car-info-android.git
